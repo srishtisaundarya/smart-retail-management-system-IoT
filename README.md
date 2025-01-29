@@ -97,8 +97,8 @@ cd smart-retail-management
 ---
 
 ## **💡 Contributors**  
-👨‍💻 **Your Name** – Rithik Kumar MB 
-👨‍💻 **Team Members** - Shreya Sharma, Srishti Saundarya
+👨‍💻 **Your Name** – Srishti Saundarya
+👨‍💻 **Team Members** - Shreya Sharma, Rithik Kumar MB
 
 ---
 
